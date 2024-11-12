@@ -1,0 +1,50 @@
+.blockspam {
+    display: none;
+}
+
+a, a:active, a:visited {
+    color: #ffd903;
+    transition: color .3s;
+}
+
+a:hover {
+    color: #a68d02
+}
+
+body {
+    background-color: #141411;
+    font-family: "B612", sans-serif;
+}
+
+.wrapper {
+    width: 85%;
+    padding: 1em 0;
+    margin: 0 auto;
+}
+
+p {
+    color: #e3e3d8;
+    font-family: "B612", monospace;
+}
+
+h1, h2 {
+    color: #e3e3d8;
+    font-family: "B612 Mono", monospace;
+}
+
+ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1.5em;
+}
+
+li {
+    padding-left: 1em;
+    text-indent: -2ch;
+}
+
+li::before {
+    content: "✈";
+    color: #e3e3d8;
+    padding-right: 1ch;
+}

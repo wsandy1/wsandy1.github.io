@@ -1,0 +1,11 @@
+/* 
+
+The following very suspicious code is obfuscated to keep it hidden from any very clever bots. 
+It just decrypts some base64 for my email address and puts it into the a tag.
+Putting your email in plain text is dangerous!
+
+If you don't believe me, pop it into https://obf-io.deobfuscate.io/! It was obfuscated using obfuscator.io.
+
+*/
+
+var _0x6d06e8=_0x72fa;(function(_0xdb1c29,_0xd1e35a){var _0x3325c1=_0x72fa,_0x2756f1=_0xdb1c29();while(!![]){try{var _0x5577ed=-parseInt(_0x3325c1(0xaa))/0x1*(-parseInt(_0x3325c1(0xa2))/0x2)+parseInt(_0x3325c1(0xac))/0x3*(-parseInt(_0x3325c1(0xa5))/0x4)+-parseInt(_0x3325c1(0x9b))/0x5+parseInt(_0x3325c1(0xae))/0x6+-parseInt(_0x3325c1(0xa3))/0x7+parseInt(_0x3325c1(0xa7))/0x8+-parseInt(_0x3325c1(0xa0))/0x9*(-parseInt(_0x3325c1(0xa9))/0xa);if(_0x5577ed===_0xd1e35a)break;else _0x2756f1['push'](_0x2756f1['shift']());}catch(_0x24a0f1){_0x2756f1['push'](_0x2756f1['shift']());}}}(_0x44ae,0x8bc3c));var enc={'one':'d2k=','two':_0x6d06e8(0x9d),'three':_0x6d06e8(0xab),'four':_0x6d06e8(0xa6),'five':'JiM0Njtjb20='},slots={'one':document[_0x6d06e8(0x9e)](_0x6d06e8(0x9c)),'two':document[_0x6d06e8(0x9e)](_0x6d06e8(0xa1)),'three':document[_0x6d06e8(0x9e)](_0x6d06e8(0xa8)),'four':document[_0x6d06e8(0x9e)](_0x6d06e8(0xb1)),'five':document[_0x6d06e8(0x9e)]('email_five')};for(prop in enc){slots[prop][_0x6d06e8(0xa4)]=atob(enc[prop]);}function _0x72fa(_0x50c761,_0x448378){var _0x44ae81=_0x44ae();return _0x72fa=function(_0x72fa55,_0x17ae2e){_0x72fa55=_0x72fa55-0x9b;var _0x13fbd8=_0x44ae81[_0x72fa55];return _0x13fbd8;},_0x72fa(_0x50c761,_0x448378);}function _0x44ae(){var _0x361f89=['44930aPVSuj','361kOwaEQ','JiM2NDt3c2FuZA==','4236oGIZNA','concat','4233498oXNKCZ','d2lsbEB3c2FuZGZvcmQuY29t','setAttribute','email_four','4590590eBSYpb','email_one','bGw=','getElementById','email','1998TcDMkm','email_two','2296TCBCqz','3943128CFkNsT','innerHTML','2396dCbTIa','Zm9yZA==','6257832UeTSKu','email_three'];_0x44ae=function(){return _0x361f89;};return _0x44ae();}document['getElementById'](_0x6d06e8(0x9f))[_0x6d06e8(0xb0)]('href','mailto:'[_0x6d06e8(0xad)](atob(_0x6d06e8(0xaf))));
